@@ -1,2 +1,5 @@
 # hello-world
-learning GitHub
+
+Hi all,
+
+My name is Eric and I live in Taiwan now. I like cycling and running.
